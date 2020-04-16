@@ -1,4 +1,4 @@
-Set up simulation folders. enter the commands in the working folder:
+Set up simulation folders. enter the commands in the working directary to generate 1000 folders:
 
 n=1
 max=1000
